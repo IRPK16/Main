@@ -342,7 +342,7 @@ https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/play
 #EXTINF:-1 tvg-id="AwakeningTV.in" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="Religious",Awakening TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQ8kxAu_on_YzVPMjB03rqA.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-logo="https://i.imgur.com/sZgON5J.png" group-title="Religious",Hare Krsna Music TV (1080p)
-https://m3u8-6rid.onrender.com/channel/UCZ8S3qwowiFztAQBRTawWfA.m3u8
+https://ythls.armelin.one/channel/UCZ8S3qwowiFztAQBRTawWfA.m3u8
 #EXTINF:-1 group-title="Religious" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw",Hare Krsna TV
 https://m3u8-6rid.onrender.com/video/RYqewnoTqWQ.m3u8
 #EXTINF:-1 group-title="Religious" tvg-language="" tvg-logo="https://yt3.ggpht.com/QpBTBWqM2obzQHRpl8WSjXuRKuBZkZxRpprFjtYBV-pa2XZEoTmM6WVzNBbPcYZVa9Eiq4vlyw",ISKCON Bangalore
@@ -350,9 +350,9 @@ https://m3u8-6rid.onrender.com/video/QCz7x-TmH_8.m3u8
 #EXTINF:-1 tvg-id="HinduDharmam.in" tvg-logo="https://i.imgur.com/VL6O6Ck.png" group-title="Religious",Hindu Dharmam (720p)
 https://m3u8-6rid.onrender.com/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in" tvg-logo="https://i.imgur.com/9u2jXKK.png" group-title="Religious",Aadinath TV (720p)
-https://m3u8-6rid.onrender.com/channel/UCY8r_lukdRi5cK5wjK_O3qw.m3u8
+https://ythls.armelin.one/channel/UCY8r_lukdRi5cK5wjK_O3qw.m3u8
 #EXTINF:-1 tvg-id="AgamvaniChannel.in" tvg-logo="https://i.imgur.com/dQI1YkX.png" group-title="Religious",Agamvani Channel (1080p)
-https://m3u8-6rid.onrender.com/channel/UClOK2dPmq8k8Xwii_4TjRnQ.m3u8
+https://ythls.armelin.one/channel/UClOK2dPmq8k8Xwii_4TjRnQ.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV (1080p)
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 #EXTINF:-1 tvg-id="ShubhTV.in" tvg-logo="https://i.imgur.com/QHv8CL2.png" group-title="Religious",Shubh TV (1080p)
