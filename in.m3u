@@ -65,7 +65,7 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="JooMusic.pk" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music",JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-CABD1200038NZ" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20231114T233340SQUARE.png_20231114233341.png" tvg-chno="1503" group-title="Canada" , XITE Hits
+#EXTINF:-1 channel-id="samsung-CABD1200038NZ" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20231114T233340SQUARE.png_20231114233341.png" tvg-chno="1503" group-title="Music" , XITE Hits
 https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
 
 
