@@ -27,10 +27,6 @@ https://m3u8-6rid.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJFz0Yb1/tv18-mtv-beats-hd-logo-300x300.jpg" group-title="Music", MTV Beats HD
-http://195.26.87.217/live.ts?channelId=173&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJy6x9Gv/MTV-HD-Plus.png" group-title="Music", MTV HD Plus
-http://195.26.87.217/live.ts?channelId=174&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="Music",Boogle Bollywood (1080p)
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Music",9XM
@@ -137,18 +133,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories
 #EXTINF:-1 tvg-id="SansadTV.in" group-title="News",Sansad TV (1080p) [Not 24/7]
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png" group-title="Hindi-Movies", Zee TV HD UK
-http://195.26.87.217/live.ts?channelId=218&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vsn2y1tz/image.jpg" group-title="Hindi-Movies", Zee Classic
-http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6LxVkXq/G0fh0PU.png" group-title="Hindi-Movies", Star Gold 2
-http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.ibb.co/f0W7bQJ/IMG-20240126-113922.jpg",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.ibb.co/xhwYtbJ/IMG-20240129-064942.jpg",Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
-http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Hindi-Movies",B4U Movies India (576p)
 http://183.89.246.119:8881/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD PRIME" tvg-logo="https://a.jsrdn.com/hls/23013/bollywood-prime/poster_20211202_231541.jpg"  group-title="Hindi-Movies",BOLLYWOOD PRIME (US)
@@ -159,8 +147,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Hindi-Movies",Colors Cineplex Bollywood (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Hindi-Movies",Colors Cineplex Superhits (1080p)
-http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg"   group-title="Hindi-Movies",MANORANJAN MOVIES (IN)
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Hindi-Movies",Xtrema Cine Hindi (272p)
@@ -174,10 +160,6 @@ http://103.120.172.74:4100
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0j2gpSs/Rock-Action.png" group-title="Movies", ROCK Action
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y93S5xrj/BNaXQWX.png" group-title="Movies", Movies Now HD
-http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRqgK2XD/image.jpg" group-title="Movies", HBO
-http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/vTCYBs6Q/hollywood-hd.png",Hollywood HD [Russia]
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/3xPN5CVW/flix.jpg",& flix HD
@@ -277,8 +259,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100013BJ.m3u8
 
 #EXTINF:-1 group-title="LIVE-HINDI-CHANNELS" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
 http://103.120.172.74:1140
-#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="LIVE-HINDI-CHANNELS",Colors HD (1080p)
-http://195.26.87.217/live.ts?channelId=160&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="LIVE-ENGLISH-CHANNELS",Colors Infinity (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="LIVE-HINDI-CHANNELS",Colors Rishtey Asia (1080p)
