@@ -23,7 +23,8 @@ https://m3u8-6rid.onrender.com/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 https://m3u8-6rid.onrender.com/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
 #EXTINF:-1 tvg-id="INews.in" tvg-logo="https://i.imgur.com/IV1O11i.png" group-title="Telugu",iNEWS (1080p)
 https://m3u8-6rid.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
-
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg",Star Maa HD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
 
 #EXTINF:-1 tvg-id="MTVBeats.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",MTV Beats (1080p)
@@ -67,7 +68,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-CABD1200038NZ" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20231114T233340SQUARE.png_20231114233341.png" tvg-chno="1503" group-title="Music" , XITE Hits
 https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
-
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/Y99S24tD/hindihitshd.jpg",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png" group-title="Business",CNBC TV18 (720p)
 https://m3u8-6rid.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
@@ -133,6 +135,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories
 #EXTINF:-1 tvg-id="SansadTV.in" group-title="News",Sansad TV (1080p) [Not 24/7]
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
 
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.ibb.co/f0W7bQJ/IMG-20240126-113922.jpg",Star Gold HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.ibb.co/xhwYtbJ/IMG-20240129-064942.jpg",Star Gold Select HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
+http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Hindi-Movies",B4U Movies India (576p)
 http://183.89.246.119:8881/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD PRIME" tvg-logo="https://a.jsrdn.com/hls/23013/bollywood-prime/poster_20211202_231541.jpg"  group-title="Hindi-Movies",BOLLYWOOD PRIME (US)
@@ -144,14 +152,26 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Hindi-Movies",Colors Cineplex Bollywood (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Hindi-Movies",Colors Cineplex Superhits (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.imgur.com/Hvvjfk5.png" group-title="Hindi-Movies",Colors Cineplex (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg"   group-title="Hindi-Movies",MANORANJAN MOVIES (IN)
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Hindi-Movies",Xtrema Cine Hindi (272p)
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.postimg.cc/fb32TVxH/Bollywood-Hungama.jpg",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.postimg.cc/zBjXGLzL/Shemaroo-Bollywood.jpg",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.postimg.cc/dVdvdMNt/sjM1MbFR.jpg",Zee Cinema HD
+http://103.120.172.74:4100
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/vTCYBs6Q/hollywood-hd.png",Hollywood HD [Russia]
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/3xPN5CVW/flix.jpg",& flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/nL4J5yhC/prive-HD.jpg",& prive HD
+http://89.187.177.137:8081/&PRIVE/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bKGy75K/IMG-20240126-121355.jpg",Star Movies HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStream
@@ -204,6 +224,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC900007Q5" tvg-id="GBBC900007Q5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20221123T010227SQUARE.png_20221123010228.png" tvg-chno="4991" group-title="Movies" , GREAT! movies
 https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/MGkHBXr6/XA3l9bN.png",Hallmark Drama
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 #EXTINF:-1 tvg-id="PlutoTVTravel.us" tvg-logo="https://i.imgur.com/hgJ1Z0w.png" group-title="Travel",Pluto TV Travel (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=
@@ -223,6 +245,8 @@ https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
 #EXTINF:-1 tvg-id="GustoTV.us" group-title="LIVE-ENGLISH-CHANNELS",GustoTV
 https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://i.postimg.cc/Y0Bg7rtt/AXN-White-Bg-Logo.jpg",AXN
+http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="LIVE-ENGLISH-CHANNELS",Are we there Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="EverydayHeroes.us" tvg-logo="https://i.imgur.com/Iam3ol3.png" group-title="LIVE-ENGLISH-CHANNELS",Everyday Heroes (480p)
@@ -236,8 +260,11 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100013BJ" tvg-id="GBBD1100013BJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20240131T031228SQUARE.png_20240131031229.png" tvg-chno="4167" group-title="LIVE-ENGLISH-CHANNELS" , Zee World
 https://i.mjh.nz/SamsungTVPlus/GBBD1100013BJ.m3u8
 
+
+#EXTINF:-1 group-title="LIVE-HINDI-CHANNELS" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
+http://103.120.172.74:1140
 #EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="LIVE-HINDI-CHANNELS",Colors HD (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+http://103.120.172.74:1070
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="LIVE-ENGLISH-CHANNELS",Colors Infinity (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="LIVE-HINDI-CHANNELS",Colors Rishtey Asia (1080p)
@@ -277,6 +304,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24
 #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="Travel",Pluto TV Animals (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/QrqVSzj/IMG-20240126-101339.png",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple68TV.us" tvg-logo="https://i.imgur.com/xQct5s2.jpg" group-title="LIVE-ENGLISH-CHANNELS",Apple68 TV (1080p)
 http://doxatv.flashmediacast.com:1935/doxatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="LIVE-ENGLISH-CHANNELS",True History (720p)
