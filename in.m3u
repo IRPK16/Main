@@ -24,7 +24,10 @@ https://m3u8-6rid.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg",Star Maa HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
-
+#EXTINF:-1 group-title="Music", MTV SIM HD
+http://45.5.117.182:8000/play/a0ie/index.m3u8
+#EXTINF:-1 group-title="Music", MTV Hits
+http://45.5.117.182:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="Music",Boogle Bollywood (1080p)
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Music",9XM
@@ -158,7 +161,7 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
 http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",Star Movies Select HD
 http://xtv.ooo:8080/live/Waseemimran/5628160/66315.ts
-#EXTINF:-1 group-title="Movie" ,HBO HD 
+#EXTINF:-1 group-title="Movies" ,HBO HD 
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="Movies",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
