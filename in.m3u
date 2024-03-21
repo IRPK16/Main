@@ -154,10 +154,16 @@ http://103.120.172.74:4100
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png" group-title="Hindi-Movies",And Pictures HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",AXN Movies HD
+http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",Star Movies Select HD
+http://xtv.ooo:8080/live/Waseemimran/5628160/66315.ts
+#EXTINF:-1 group-title="Movie" ,HBO HD 
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="Movies",HBO Family
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png",HBO Hits
-http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/196480
 #EXTINF:-1 group-title="Movies" tvg-logo="https://s2.loli.net/2024/02/11/u6SXVDA3BWlInQU.jpg",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png",HBO Signature
