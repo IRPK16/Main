@@ -154,6 +154,14 @@ http://103.120.172.74:4100
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png" group-title="Hindi-Movies",And Pictures HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="Movies",HBO Family
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 group-title="Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png",HBO Hits
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1 group-title="Movies" tvg-logo="https://s2.loli.net/2024/02/11/u6SXVDA3BWlInQU.jpg",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png",HBO Signature
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/3xPN5CVW/flix.jpg",& flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/nL4J5yhC/prive-HD.jpg",& prive HD
@@ -290,6 +298,8 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="CRACKLE" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/11/Crackle-Logo.png"  group-title="LIVE-ENGLISH-CHANNELS",CRACKLE (US)
 https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://s2.loli.net/2023/09/18/hDPBlvgUmen6xIi.png",Warner TV
+http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
 #EXTINF:-1 tvg-id="TASTE MADE" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/01/tastemade-logo-600_lKOgSRW.jpg"  group-title="Travel",TASTE MADE (US)
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WILD LIFE" tvg-logo="https://images.teemill.com/qzakvr44vkw1zwbqzxzcdnlx2zco2omqizcso45jcgreqioj.png.png"  group-title="Travel",WILD LIFE (US)
