@@ -236,6 +236,45 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/MGkHBXr6/XA3l9bN.png",Hallmark Drama
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 26
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 27
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 28
+http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 29
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 31
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 32
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 33
+http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 34
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 32
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 34
+http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 35
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 37
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 39
+http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
+
 #EXTINF:-1 tvg-id="PlutoTVTravel.us" tvg-logo="https://i.imgur.com/hgJ1Z0w.png" group-title="Travel",Pluto TV Travel (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVSpace.us" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space (720p)
