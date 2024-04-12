@@ -26,6 +26,10 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 #EXTINF:-1 tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="Telugu",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" group-title="", CLUBBING TV [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF MUSIC HD 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
 #EXTINF:-1 tvg-id="VH1.India" tvg-name="VH1 HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCuwQ.jpg" group-title="Music",VH1 HD
 http://xtv.ooo:8080/580216793/6032067013/356076
 #EXTINF:-1 group-title="Music", MTV SIM HD
@@ -44,6 +48,10 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 http://183.89.246.119:8881/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Music",Isai Aruvi (576p)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="",MTV HD PLUS [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="",MTV BEATS HD [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="MASTIII" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="Music",MASTIII (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="Music",E24 (IN)
@@ -71,6 +79,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/Y99S24tD/hindihitshd.jpg",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_afxZn_p2R8t_9apbVS-TDrPjDQucGF9ZH52oXqLg&s", FILMY GAANE
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
 
 #EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png" group-title="Business",CNBC TV18 (720p)
 https://m3u8-6rid.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
@@ -144,6 +154,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 http://183.89.246.119:8881/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD PRIME" tvg-logo="https://a.jsrdn.com/hls/23013/bollywood-prime/poster_20211202_231541.jpg"  group-title="Hindi-Movies",BOLLYWOOD PRIME (US)
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE73iVEmHQp71HL0txeUXjH61k37aexL_qSYaURv_vEA&s"group-title="Hindi-Movies", MBC BOLLYWOOD 
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg"  group-title="Hindi-Movies",BOLLYWOOD HD (RU)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="BOLLYWOOD CLASSIC HD" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png"  group-title="Hindi-Movies",BOLLYWOOD CLASSIC HD (RU)
@@ -157,9 +169,42 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.postimg.cc/zBjXGLzL/Shemaroo-Bollywood.jpg",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://i.postimg.cc/dVdvdMNt/sjM1MbFR.jpg",Zee Cinema HD
-http://103.120.172.74:4100
+http://sansat.net:88/02029761595924/9d089925dc60a821/96171
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png" group-title="Hindi-Movies",And Pictures HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCmpzlzdav-DmxMApjb3J728v2Tj-anBL_Z87fwvzMg&s", STAR GOLD ROMANCE
+http://mag.trexlive.me:80/Michael88/Michael88/156033
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobk_FTM1iCM53gnYx9FQiUZuIyamwfmP0XhL1Xsps2Q&s", STAR GOLD THRILLS 
+http://mag.trexlive.me:80/Michael88/Michael88/156005
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="", COLORS CINEPLEX SUPERHITS [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="", COLORS CINEPLEX BOLLYWOOD [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Hindi-Movies"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRianrtbQVfPeFXXQsgzU5zVtBV4dZWIxzCccaaiiAWTg&s" group-title="", STAR GOLD SELECT HD 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96175
+#EXTINF:-1 group-title="Hindi-Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDy9nGZ8t0mJeCSUXLW73eRdFeSuilHUheAMkjW6xucg&s" group-title="", UTSAV GOLD HD 
+http://sansat.net:88/02029761595924/9d089925dc60a821/100800
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 1
+https://drive.uber.radio/uber/sportifybollywood/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 2
+https://drive.uber.radio/uber/sportifytrending/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 3
+https://stream.beyondradio.co.uk/radio/8000/high
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 4
+https://stream-145.zeno.fm/rqqps6cbe3quv?zs=ud6ItwI9QqKYmzMiFGBSzQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 5
+https://stream-161.zeno.fm/zs3m3yxjr7buv?zs=2El3hFqkQou6ediu1mOECg
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 6
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio",  SPOTIFY 7
+https://drive.uber.radio/uber/bollywooddance/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 8
+https://drive.uber.radio/uber/bollywoodnow/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio", SPOTIFY 9
+https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
+
 
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",AXN Movies HD
 http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
@@ -299,10 +344,17 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100013BJ" tvg-id="GBBD1100013BJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20240131T031228SQUARE.png_20240131031229.png" tvg-chno="4167" group-title="LIVE-ENGLISH-CHANNELS" , Zee World
 https://i.mjh.nz/SamsungTVPlus/GBBD1100013BJ.m3u8
+#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="", COMEDY CENTRAL HD [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title=" ", COLORS INFINITY HD [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 
-
+#EXTINF:-1 group-title="LIVE-HINDI-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="", COLORS HD [VOOT]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="LIVE-HINDI-CHANNELS" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
-http://103.120.172.74:1140
+http://sansat.net:88/02029761595924/9d089925dc60a821/96170
+#EXTINF:-1 group-title="LIVE-HINDI-CHANNELS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVV7aEf69log_p-Ra5kjkM6q2q3RYk3bBsIFqC7COGvA&s", STAR PLUS HD
+http://sansat.net:88/02029761595924/9d089925dc60a821/96176
 #EXTINF:-1 tvg-id="EPIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MljTkYku.png"   group-title="LIVE-HINDI-CHANNELS",EPIC (IN)
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1 tvg-id="ISHARA" tvg-logo="https://www.isharachannel.com/wp-content/uploads/2022/08/Ishara_n1_logo.png"  group-title="LIVE-HINDI-CHANNELS",ISHARA (IN)
@@ -400,7 +452,8 @@ https://m3u8-6rid.onrender.com/channel/UCblRTkMGTIHuOsJhvo7Amyg.m3u8
 https://m3u8-6rid.onrender.com/video/Ar7AEDyFcIk.1.m3u8
 #EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="" group-title="Kids",ABC Me (720p)
 https://c.mjh.nz/abc-me.m3u8
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCSVARlJavblhZBh5m50j7zdeQxN9WRzXJ5FdWeHH6A&s" , KIDS TV INDIA 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 
 #EXTINF:-1 tvg-id="Unbeaten.us" group-title="Sports",Unbeaten (1080p)
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
