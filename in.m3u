@@ -29,13 +29,13 @@ http://xtv.ooo:8080/221334/221334/66213
 http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/281969
 #EXTINF:-1 tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="Telugu",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
-#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FysrTv.png?alt=media&token=058f4cb1-386f-4b43-82a7-e2acd2a6dd6d", YSR TV
+#EXTINF:-1, group-title="Telugu",YSR TV
 http://telugusolutions.com:8088/ysrtv/ysrtv.m3u8
-#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgatlaTv.png?alt=media&token=1df8ecc2-3f83-4229-9c03-237235c1df62" , Gatla TV
+#EXTINF:-1, group-title="Telugu" ,Gatla TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
-#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmsDigital.png?alt=media&token=0920adfe-50fa-4ffc-ba0e-7398221e8a8c" , MS Digital
+#EXTINF:-1, group-title="Telugu",MS Digital
 http://telugusolutions.com:8088/msdigitaltv/msdigitaltv.m3u8
-#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsityCableTandur.png?alt=media&token=dc4ee5ae-d581-4b74-a536-266f8052689e" , Sity Cable Tandur
+#EXTINF:-1, group-title="Telugu",Sity Cable Tandur
 http://telugusolutions.com:8088/cabletandur/cabletandur.m3u8
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/RQB9jek.jpg" group-title="Telugu", GEMINI TV 
 http://watchindia.net:8880/live/33697/64381/928.ts
