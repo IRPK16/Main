@@ -230,11 +230,11 @@ https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",AXN Movies HD
 http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-movies-select-hd-in.png" group-title="Movies",Star Movies Select HD
 http://xtv.ooo:8080/live/Waseemimran/5628160/66315.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,Movies Now HD
 http://xtv.ooo:8080/221334/221334/66271
-#EXTINF:-1 group-title="Movies" ,HBO HD 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/hbo-1-ca.png",HBO HD 
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="Movies",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
@@ -249,7 +249,7 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/nL4J5yhC/prive-HD.jpg",& prive HD
 #http://89.187.177.137:8081/&PRIVE/index.m3u8
 http://xtv.ooo:8080/221334/221334/66228
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,MN+ HD
+#EXTINF:-1 group-title="Movies" tvg-logo=" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mnx-hd-in.png" ,MN+ HD
 http://xtv.ooo:8080/221334/221334/66244
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,MNX HD
 http://xtv.ooo:8080/221334/221334/66266
