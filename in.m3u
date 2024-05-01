@@ -23,10 +23,32 @@ https://m3u8-6rid.onrender.com/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
 https://m3u8-6rid.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg",Star Maa HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
+#EXTINF:-1 group-title="Telugu" tvg-id="starmovieshd.in" ,Star Maa Movies HD
+http://xtv.ooo:8080/221334/221334/66213
+#EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="Telugu", STAR MAA MUSIC
+http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/281969
 #EXTINF:-1 tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="Telugu",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
+#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FysrTv.png?alt=media&token=058f4cb1-386f-4b43-82a7-e2acd2a6dd6d", YSR TV
+http://telugusolutions.com:8088/ysrtv/ysrtv.m3u8
+#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgatlaTv.png?alt=media&token=1df8ecc2-3f83-4229-9c03-237235c1df62" , Gatla TV
+http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
+#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmsDigital.png?alt=media&token=0920adfe-50fa-4ffc-ba0e-7398221e8a8c" , MS Digital
+http://telugusolutions.com:8088/msdigitaltv/msdigitaltv.m3u8
+#EXTINF:-1, group-title="Telugu" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsityCableTandur.png?alt=media&token=dc4ee5ae-d581-4b74-a536-266f8052689e" , Sity Cable Tandur
+http://telugusolutions.com:8088/cabletandur/cabletandur.m3u8
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/RQB9jek.jpg" group-title="Telugu", GEMINI TV 
+http://watchindia.net:8880/live/33697/64381/928.ts
+#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="Telugu", GEMINI COMEDY
+http://xtv.ooo:8080/MansoorWapda/258741/244435
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://i.imgur.com/qNVzsde.jpg" group-title=""Telugu", SITI CHANNEL
+https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM" tvg-logo="https://i.imgur.com/FBGv3Et.jpg" group-title="Telugu", VINODAM 
+https://sharsolution.in/hls/vinodam/vinodam.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" group-title="",CLUBBING TV [VOOT]
+#EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" group-title="Music",CLUBBING TV [VOOT]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF MUSIC HD 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
@@ -210,6 +232,8 @@ https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
 http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",Star Movies Select HD
 http://xtv.ooo:8080/live/Waseemimran/5628160/66315.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,Movies Now HD
+http://xtv.ooo:8080/221334/221334/66271
 #EXTINF:-1 group-title="Movies" ,HBO HD 
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="Movies",HBO Family
@@ -223,7 +247,12 @@ http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb159489
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/3xPN5CVW/flix.jpg",& flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/nL4J5yhC/prive-HD.jpg",& prive HD
-http://89.187.177.137:8081/&PRIVE/index.m3u8
+#http://89.187.177.137:8081/&PRIVE/index.m3u8
+http://xtv.ooo:8080/221334/221334/66228
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,MN+ HD
+http://xtv.ooo:8080/221334/221334/66244
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,MNX HD
+http://xtv.ooo:8080/221334/221334/66266
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bKGy75K/IMG-20240126-121355.jpg",Star Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Action Hollywood Movies
