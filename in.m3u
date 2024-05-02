@@ -227,21 +227,6 @@ https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio",SPOTIFY 9
 https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
 
-#EXTINF:-1 group-title="Movies", HBO Sig
-http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 group-title="Movies", HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies", HBO2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title="Movies", HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title="Movies", HBO Mundi
-http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 group-title="Movies", HBO XTREME
-http://170.254.18.106/HBO_XTREME/index.m3u8
-
-#EXTINF:-1 group-title="Movies",Paramount
-http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",AXN Movies HD
 http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-movies-select-hd-in.png" group-title="Movies",Star Movies Select HD
