@@ -231,7 +231,7 @@ https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
 http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-movies-select-hd-in.png" group-title="Movies",Star Movies Select HD
 http://xtv.ooo:8080/live/Waseemimran/5628160/66315.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,Movies Now HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/MoviesNow.in.png",Movies Now HD
 http://xtv.ooo:8080/221334/221334/66271
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/hbo-1-ca.png",HBO HD 
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
@@ -244,16 +244,15 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png",HBO Signature
 http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/3xPN5CVW/flix.jpg",& flix HD
-http://89.187.177.137:8081/&FLIX/index.m3u8
+http://xtv.ooo:8080/221334/221334/66236
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/nL4J5yhC/prive-HD.jpg",& prive HD
-#http://89.187.177.137:8081/&PRIVE/index.m3u8
 http://xtv.ooo:8080/221334/221334/66228
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mnx-hd-in.png" ,MN+ HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mnx-hd-in.png",MN+ HD
 http://xtv.ooo:8080/221334/221334/66244
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,MNX HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in",MNX HD
 http://xtv.ooo:8080/221334/221334/66266
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bKGy75K/IMG-20240126-121355.jpg",Star Movies HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+http://xtv.ooo:8080/221334/221334/66213
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStream
