@@ -44,6 +44,10 @@ http://watchindia.net:8880/live/33697/64381/928.ts
 http://xtv.ooo:8080/221334/221334/250842
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="Telugu",GEMINI COMEDY
 http://xtv.ooo:8080/MansoorWapda/258741/244435
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="" group-title="Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png",GEMINI MOVIES HD
+http://Watchindia.net:8880/live/98697/23119/930.ts
+#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="" group-title="Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png",GEMINI MUSIC HD
+http://Watchindia.net:8880/live/98697/23119/929.ts
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://i.imgur.com/qNVzsde.jpg" group-title="Telugu",SITI CHANNEL
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM" tvg-logo="https://i.imgur.com/FBGv3Et.jpg" group-title="Telugu",VINODAM 
@@ -232,8 +236,28 @@ https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZwNPlDQaBWWPtTaD59wfAaYNwYwRWzzSZi_bXc69vw&s" group-title="Radio",SPOTIFY 9
 https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
 
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png",SKY CINEMA ACTION
+http://Watchindia.net:8880/live/98697/23119/2176.ts
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png",SKY CINEMA COMEDY
+http://Watchindia.net:8880/live/98697/23119/2177.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",SKY CINEMA FAMILY
+http://Watchindia.net:8880/live/98697/23119/2173.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",SKY CINEMA GREATS
+http://Watchindia.net:8880/live/98697/23119/2172.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png",SKY CINEMA HITS
+http://Watchindia.net:8880/live/98697/23119/2171.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png",SKY CINEMA PREMIERE
+http://Watchindia.net:8880/live/98697/23119/2169.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png",SKY CINEMA SCI-FI/HORROR
+http://Watchindia.net:8880/live/98697/23119/2180.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png",SKY CINEMA SELECT
+http://Watchindia.net:8880/live/98697/23119/2170.ts
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png",SKY CINEMA THRILLER
+http://Watchindia.net:8880/live/98697/23119/2178.ts
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="Movies",AXN Movies HD
 http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
+#EXTINF:-1 tvg-id="cinemax.us" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/usa/Cinemax.png",CINEMAX
+http://Watchindia.net:8880/live/98697/23119/2065.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-movies-select-hd-in.png" group-title="Movies",Star Movies Select HD
 http://xtv.ooo:8080/live/Waseemimran/5628160/66315.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/MoviesNow.in.png",Movies Now HD
