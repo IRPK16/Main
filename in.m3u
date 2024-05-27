@@ -44,7 +44,7 @@ http://watchindia.net:8880/live/33697/64381/928.ts
 http://xtv.ooo:8080/221334/221334/250842
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="Telugu",GEMINI COMEDY
 http://xtv.ooo:8080/MansoorWapda/258741/244435
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://i.imgur.com/qNVzsde.jpg" group-title=""Telugu",SITI CHANNEL
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://i.imgur.com/qNVzsde.jpg" group-title="Telugu",SITI CHANNEL
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM" tvg-logo="https://i.imgur.com/FBGv3Et.jpg" group-title="Telugu",VINODAM 
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
@@ -361,9 +361,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100013BJ" tvg-id="GBBD1100013BJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20240131T031228SQUARE.png_20240131031229.png" tvg-chno="4167" group-title="LIVE-ENGLISH-CHANNELS" ,Zee World
 https://i.mjh.nz/SamsungTVPlus/GBBD1100013BJ.m3u8
-#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="",COMEDY CENTRAL HD [VOOT]
+#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",COMEDY CENTRAL HD [VOOT]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title=" ",COLORS INFINITY HD [VOOT]
+#EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",COLORS INFINITY HD [VOOT]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="LIVE-HINDI-CHANNELS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="",COLORS HD [VOOT]
@@ -419,6 +419,8 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="CRACKLE" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/11/Crackle-Logo.png"  group-title="LIVE-ENGLISH-CHANNELS",CRACKLE (US)
 https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="LIVE-ENGLISH-CHANNELS" tvg-logo="https://s2.loli.net/2023/09/18/hDPBlvgUmen6xIi.png",Warner TV
 http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
 #EXTINF:-1 tvg-id="TASTE MADE" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/01/tastemade-logo-600_lKOgSRW.jpg"  group-title="Travel",TASTE MADE (US)
