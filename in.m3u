@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV5News.in" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="Telugu",TV5 News (720p)
-https://m3u8-6rid.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-logo="https://i.imgur.com/ufH48jV.png" group-title="Telugu",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-logo="https://i.imgur.com/gcoiZJ3.png" group-title="Telugu",ABN Andhra Jyoti (720p)
