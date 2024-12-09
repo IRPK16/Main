@@ -19,13 +19,6 @@ https://m3u8-6rid.onrender.com/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 https://m3u8-6rid.onrender.com/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
 #EXTINF:-1 tvg-id="INews.in" tvg-logo="https://i.imgur.com/IV1O11i.png" group-title="Telugu",iNEWS (1080p)
 https://m3u8-6rid.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg",Maa HD
-http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
-#EXTINF:-1 group-title="Telugu" tvg-id="starmovieshd.in" ,Star Maa Movies HD
-http://xtv.ooo:8080/221334/221334/244438
-#http://xtv.ooo:8080/221334/221334/250841
-#EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="Telugu", STAR MAA MUSIC
-http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/281969
 #EXTINF:-1 tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="Telugu",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="YSR TV" group-title="Telugu",YSR TV
@@ -36,22 +29,13 @@ http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 http://telugusolutions.com:8088/msdigitaltv/msdigitaltv.m3u8
 #EXTINF:-1 tvg-name="Sity Cable Tandu" group-title="Telugu",Sity Cable Tandur
 http://telugusolutions.com:8088/cabletandur/cabletandur.m3u8
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV" tvg-logo="https://i.imgur.com/RQB9jek.jpg" group-title="Telugu",GEMINI TV HD
-http://watchindia.net:8880/live/33697/64381/928.ts
-#EXTINF:-1 group-title="Telugu" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" tvg-id="etvhd.in" ,Etv HD
-http://xtv.ooo:8080/221334/221334/250842
-#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="Telugu",GEMINI COMEDY
-http://xtv.ooo:8080/MansoorWapda/258741/244435
-#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="" group-title="Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png",GEMINI MOVIES HD
-http://Watchindia.net:8880/live/98697/23119/930.ts
-#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="" group-title="Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png",GEMINI MUSIC HD
-http://Watchindia.net:8880/live/98697/23119/929.ts
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://i.imgur.com/qNVzsde.jpg" group-title="Telugu",SITI CHANNEL
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM" tvg-logo="https://i.imgur.com/FBGv3Et.jpg" group-title="Telugu",VINODAM 
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
-#EXTINF:-1 group-title="Telugu" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png",Zee Telugu HD
-http://xtv.ooo:8080/221334/221334/244430
+#EXTINF:-1 tvg-id="Telangana Sanskruti" group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TS.jpg",Telangana Sanskruti
+http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
