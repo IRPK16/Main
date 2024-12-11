@@ -53,13 +53,13 @@ https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
 https://amigofx.com:1936/kcf/kcf/playlist.m3u8
 #EXTINF:-1  tvg-name="Sr" group-title="తెలుగు" tvg-logo="",Sravya
 https://vvsolutions.in/sravyatv/sravyatv.m3u8
-#EXTINF:-1  tvg-name="Ry" group-title="Telugu" tvg-logo="",Reshya
+#EXTINF:-1  tvg-name="Ry" group-title="తెలుగు" tvg-logo="",Reshya
 https://vvsolutions-server11.in/reshyatv_5/video.m3u8
-#EXTINF:-1  tvg-name="Kl" group-title="Telugu" tvg-logo="",YJ TV
+#EXTINF:-1  tvg-name="Kl" group-title="తెలుగు" tvg-logo="",YJ TV
 https://vvsolutions.in/yjtv/yjtv.m3u8
-#EXTINF:-1  tvg-name="Rk" group-title="Telugu" tvg-logo="",RK TV
+#EXTINF:-1  tvg-name="Rk" group-title="తెలుగు" tvg-logo="",RK TV
 https://vvsolutions.in/rktv_347/rktv_347.m3u8
-#EXTINF:-1  tvg-name="Or" group-title="Telugu" tvg-logo="",Orugallu9 
+#EXTINF:-1  tvg-name="Or" group-title="తెలుగు" tvg-logo="",Orugallu9 
 https://vvsolutions.in/orugallu9/orugallu9.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
