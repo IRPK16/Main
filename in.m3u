@@ -17,7 +17,7 @@ http://telugusolutions.com:8088/cabletandur/cabletandur.m3u8
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 #EXTINF:-1 tvg-name="V9 Studio News" tvg-name="VINODAM" tvg-logo="https://i.imgur.com/FBGv3Et.jpg" group-title="తెలుగు",VINODAM 
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
-#EXTINF:-1 tvg-name="Telangana Sanskruti" group-title="తెలుగు" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TS.jpg",Telangana Sanskruti
+#EXTINF:-1 tvg-name="Telangana Sanskruti" group-title="తెలుగు" ,Telangana Sanskruti
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 #EXTINF:-1, tvg-name="17.in" group-title="తెలుగు", Public TV
 http://telugusolutions.com:8088/publictv/publictv.m3u8
@@ -39,17 +39,17 @@ https://sharsolution.in/hls/meetv/meetv.m3u8
 https://sharsolution.in/hls/s9tv/s9tv.m3u8
 #EXTINF:-1, tvg-name="441.in" group-title="తెలుగు", Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
-#EXTINF:-1  tvg-name="Mana Tv" group-title="తెలుగు" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1753232738761369176382132.png",Mana Tv
+#EXTINF:-1  tvg-name="Mana Tv" group-title="తెలుగు" ,Mana Tv
 http://decode.streamplay.in:1935/telugutv/telugutv/chunklist_w2044669398.m3u8
-#EXTINF:-1  tvg-name="Sity CCC Tv" group-title="తెలుగు" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1216086344639422630948665.png",Sity Telangana Tv
+#EXTINF:-1  tvg-name="Sity CCC Tv" group-title="తెలుగు" ,Sity Telangana Tv
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
-#EXTINF:-1 tvg-name="GEE TV" tvg-logo="https://i.imgur.com/iuzqbmj.jpg" group-title="తెలుగు", GEE TV
+#EXTINF:-1 tvg-name="GEE TV"  group-title="తెలుగు", GEE TV
 http://live.shreyastv.in:8088/geetv/geetv.m3u8
 #EXTINF:-1  tvg-name="AP" group-title="తెలుగు" tvg-logo="",AP Local TV
 https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
-#EXTINF:-1 tvg-name="PCN HD"  tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240626_1100186484765975964086454.png" group-title="తెలుగు", PCN HD
+#EXTINF:-1 tvg-name="PCN HD"  group-title="తెలుగు", PCN HD
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
-#EXTINF:-1 tvg-name="KCF" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240626_1131308877431336826083111.png" group-title="తెలుగు", KCF
+#EXTINF:-1 tvg-name="KCF"  group-title="తెలుగు", KCF
 https://amigofx.com:1936/kcf/kcf/playlist.m3u8
 #EXTINF:-1  tvg-name="Sr" group-title="తెలుగు" tvg-logo="",Sravya
 https://vvsolutions.in/sravyatv/sravyatv.m3u8
